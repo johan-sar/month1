@@ -6554,7 +6554,7 @@ body[data-sidebar-size=collapsed][data-theme-layout=horizontal] .topbar {
           appearance: none;
 }
 .NavMenu li a label::after {
-  content: "";
+  content: "";
   font-family: "tabler-icons" !important;
   line-height: 1;
   position: absolute;
